@@ -1,0 +1,19 @@
+[IP_CAMERA]
+cam_adress = 192.168.72.152
+cam_login =  admin
+cam_pass = Droma-222-!!!
+
+[FTP_SERVER]
+ftp_adress = 192.168.40.30
+ftp_login = ftpkamery
+ftp_pass = alamakota123
+ftp_folder = FTP/
+
+[OTHER_CONFIG]
+workplace = 0
+folder_for_screenshots = screenshots
+screen_width = 1366
+screen_height = 768
+console_width = 250
+console_height = 250
+status_timer = 100
